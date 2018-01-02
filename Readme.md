@@ -1,5 +1,5 @@
-# SeleniumWithCucumber
-This is an sample project to demonstrate how to work with Selenium and cucumber for Java
+# AutomationJenkins
+This is an sample project to learn how to work with Selenium and cucumber for Java. I got the code from ExecutionAutomation repository: https://github.com/executeautomation/SeleniumWithCucucumber
 
 ## More Information
 The complete code base development video is available in ExecuteAutomation YouTube channel 
